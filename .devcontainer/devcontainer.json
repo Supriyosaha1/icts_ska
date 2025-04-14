@@ -1,0 +1,10 @@
+{
+  "name": "reionisation-env",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [],
+  "forwardPorts": [],
+  "postCreateCommand": ""
+}
